@@ -26,18 +26,18 @@ NLTK library installed
 1. Installation
    
  Clone the repository:
- git clone https://github.com/winkingroad/Mental-health-care-Chatbot.git
+```git clone https://github.com/winkingroad/Mental-health-care-Chatbot.git```
 
 2. Navigate to the project directory:
-   cd Mental-health-care-chatbot
+   ```cd Mental-health-care-chatbot```
    
 3. Install the required dependencies:
-   pip install -r requirements.txt
+   ```pip install -r requirements.txt```
 
 Usage
 Run the chatbot application:
 
- python chatbot.py
+ ```python chatbot.py```
 
 Use the chatbot to discuss your mental health concerns, access resources, and receive personalized recommendations.
 
